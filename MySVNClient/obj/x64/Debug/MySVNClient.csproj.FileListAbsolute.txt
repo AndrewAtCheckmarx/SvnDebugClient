@@ -1,0 +1,12 @@
+C:\Users\AndrewT\documents\visual studio 2013\Projects\MySVNClient\MySVNClient\bin\x64\Debug\MySVNClient.exe.config
+C:\Users\AndrewT\documents\visual studio 2013\Projects\MySVNClient\MySVNClient\bin\x64\Debug\MySVNClient.exe
+C:\Users\AndrewT\documents\visual studio 2013\Projects\MySVNClient\MySVNClient\bin\x64\Debug\MySVNClient.pdb
+C:\Users\AndrewT\documents\visual studio 2013\Projects\MySVNClient\MySVNClient\bin\x64\Debug\SharpSvn.dll
+C:\Users\AndrewT\documents\visual studio 2013\Projects\MySVNClient\MySVNClient\bin\x64\Debug\SharpPlink-x64.svnExe
+C:\Users\AndrewT\documents\visual studio 2013\Projects\MySVNClient\MySVNClient\obj\x64\Debug\MySVNClient.SvnClient.resources
+C:\Users\AndrewT\documents\visual studio 2013\Projects\MySVNClient\MySVNClient\obj\x64\Debug\MySVNClient.frmCheckout.resources
+C:\Users\AndrewT\documents\visual studio 2013\Projects\MySVNClient\MySVNClient\obj\x64\Debug\MySVNClient.Properties.Resources.resources
+C:\Users\AndrewT\documents\visual studio 2013\Projects\MySVNClient\MySVNClient\obj\x64\Debug\MySVNClient.csproj.GenerateResource.Cache
+C:\Users\AndrewT\documents\visual studio 2013\Projects\MySVNClient\MySVNClient\obj\x64\Debug\MySVNClient.exe
+C:\Users\AndrewT\documents\visual studio 2013\Projects\MySVNClient\MySVNClient\obj\x64\Debug\MySVNClient.pdb
+C:\Users\AndrewT\documents\visual studio 2013\Projects\MySVNClient\MySVNClient\obj\x64\Debug\MySVNClient.csprojResolveAssemblyReference.cache
